@@ -2,7 +2,7 @@
 
 # Packages utiles pour Atom
 ---------------------------
-##### Je vous propose d'améliorer un outil qu'on utilise chaque jour : notre éditeur de texte Atom.-
+##### Je vous propose d'améliorer un outil qu'on utilise chaque jour : notre éditeur de texte Atom.
 ## Html-preview
 Comme son nom l'indique, cela permet de visualiser votre code html **en direct**. Cela évite entre autre les habituelles commandes telles que Alt+S, Alt-Tab et F5 pour rafraîchir le navigateur.
 Installation : Ouvrir le terminal. Copiez-collez apm install atom-html-preview
