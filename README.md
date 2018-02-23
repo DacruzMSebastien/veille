@@ -19,7 +19,7 @@ Installation : Vous connaissez le rerfain désormais. apm-install- pigments
 Commande : Ouvrir le panel, et inscrivez "Pigments" pour découvrir tout ce que peut faire ce paquet.
 
 ## Minimap
-Affiche une petite carte sur le côté de votre code. IL suffit de cliquer dessus pour se rendre à la partie du code que vous désirez.
+Affiche une petite carte sur le côté de votre code. Il suffit de cliquer dessus pour se rendre à la partie du code que vous désirez.
 Pratique lorsqu'on a des centaines/milliers de lignes.
 
 ## Fonction recherche
