@@ -1,6 +1,6 @@
 # Gutenberg
 
-*Actuellement en démo, Gutenberg est et sera le nouvel éditeur de texte de Wordpress 5.0.
+*Actuellement encore en démo sous la forme d'un plug-in, Gutenberg est en phase de devenir le nouvel éditeur de texte de Wordpress 5.0, remplaçant ainsi TinyMCE.
 L’idée derrière Gutenberg est de créer un éditeur de pages qui permet de visualiser les changements en temps réel, et qui serait ainsi plus accessible aux créateurs de sites débutants.*
 
 ![](https://www.wpblog.com/wp-content/uploads/2018/02/wp-1.jpg)
@@ -14,7 +14,9 @@ L’idée derrière Gutenberg est de créer un éditeur de pages qui permet de v
 ## Changements
 Gutenberg, dès aujourd’hui, propose de créer du contenu sous forme de **blocs** : il s’agit de la nouvelle unité de base WordPress. Selon certains spécialistes, il y aurait une raison à cela : Permettre, à l'avenir, durant la création de site web, la personnalisation du contenu **selon le visiteur**, càd la création de pages dynamiques où le contenu varie en fonction du profil de la personne qui le visite.
 
-La maniabilité, quant à elle, a été repensée pour permettre aux  débutants de s'y retrouver grâce à une interface WYSIWYG. C'est d'ailleurs un nouveau point fort ; l'interface, bien qu'encore en construction, est très agréable et très aérée.
+La maniabilité, quant à elle, est l'élément phare puisqu'elle a été repensée pour permettre aux débutants de s'y retrouver grâce à une interface WYSIWYG comme je le disais précédemment. C'est d'ailleurs un nouveau point fort ; l'interface, bien qu'encore en construction, est très agréable et très aérée.
+
+Voyons cela ensemble à travers ces deux vidéos.
 
 [Premier contact](https://www.youtube.com/watch?v=i-RjmRBZ2rA&t=604s)
 
