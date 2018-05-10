@@ -17,7 +17,7 @@ Gutenberg, dès aujourd’hui, propose de créer du contenu sous forme de **bloc
 La maniabilité, quant à elle, a été repensée pour permettre aux  débutants de s'y retrouver grâce à une interface WYSIWYG. C'est d'ailleurs un nouveau point fort ; l'interface, bien qu'encore en construction, est très agréable et très aérée.
 
 [Premier contact](https://www.youtube.com/watch?v=i-RjmRBZ2rA&t=604s)
-Avis mitigé d'un utilisateur Wordpress depuis 10 ans
+
 [Démo](https://www.youtube.com/watch?v=i-RjmRBZ2rA&t=604s)
 
 
