@@ -33,7 +33,7 @@ Regardez des séries TV et des films depuis n'importe quel télé équipé d'un 
 Google Home est, jusqu'à présent, disponible en 8 langues : l’anglais, le français, l’allemand, l’italien, le japonais, le coréen, l’espagnol et le portugais mais d'ici les fêtes de fin d'années, ce dernier en comportera 30.
 
 Il existe aussi une autre itération de Google Home appelé Google Home Mini disposant des mêmes fonctionnalités que son parent. La seule différence est sa qualité sonore qui, elle, est plus faible.
-Quant au prix, il s'élève à 59 euros, contre 159 pour la version originelle.
+Quant au prix, il s'élève à 59 euros, contre 149 pour la version originelle.
 
 
 ![enter image description here](https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/240566-L-LO.jpg)
