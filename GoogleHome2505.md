@@ -1,6 +1,6 @@
 # Google Home
 
-Google Home est un haut parleur intelligent. Il est relié à un assistant virtuel baptisé Google Assistan, une intelligence artificielle capable de répondre aux questions vocales mais aussi écrites de ses propriétaires. . L'enceinte communicante est alors capable d'aider ses utilisateurs dans de multiples taches de leur vie quotidienne
+Google Home est un haut parleur intelligent. Il est relié à un assistant virtuel baptisé Google Assistan, une intelligence artificielle capable de répondre aux questions vocales mais aussi écrites de ses propriétaires. L'enceinte communicante est alors capable d'aider ses utilisateurs dans de multiples taches de leur vie quotidienne
 
 ![Google Home](https://images.kogan.com/image/fetch/s--7mtUJpIA--/b_white,c_pad,f_auto,h_400,q_auto:good,w_600/https://assets.kogan.com/files/product/HKI/KHGOOGHOMWHT/KHGOOGHOMWHT_1.jpg)
 
