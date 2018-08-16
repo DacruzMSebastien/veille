@@ -4,7 +4,7 @@
 Chart.js est une bibliothèque JavaScript open source représentant des données sous forme de graphiques.
  
 ###  Création de l'environnement de travail
-Nous allons créer un fichier index.html et chart.js
+Créons un nouveau répertoire dans lequel nous allons créer un fichier index.html et chart.js
 
 ### Intégration
  On utilise le CDN que l'on va ajouter en-dessous des balises meta du fichier index.html
