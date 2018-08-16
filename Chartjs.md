@@ -20,6 +20,7 @@ Enfin, sous la balise de fermeture body, ajoutons le lien vers notre fichier Jav
 Tout ce qui va suivre est à c/c dans le fichier chart.js
 
 **On sélectionne notre canvas via le DOM**
+
 `var  ctx  =  document.getElementById("myChart");`
 
 **On instancie le graphique en précisant son type**.
