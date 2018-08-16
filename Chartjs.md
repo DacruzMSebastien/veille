@@ -177,7 +177,7 @@ Voici les valeurs qui doivent figurer sur le graphique  (j'ai réadapté l'exerc
 
 type: 'horizontalBar'
 
-label: "Consommation Groupe Froid" affichée en bleu
+label: "Consommation Groupe Froid" affiché en bleu
 
 labels: 10h, 12h, 14h, 16h, 18h (ordonnées)
 
