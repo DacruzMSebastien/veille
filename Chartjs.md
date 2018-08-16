@@ -70,6 +70,7 @@ Voilà pour les couleurs, c'est assez explicite, à noter que borderWidth corres
 
 
 **Enfin, pour que l'axe des ordonnées commence bien à 0**
+
 On insère la valeur "scales" dans les options du graphique.
 ```
  },
