@@ -176,8 +176,11 @@ Créer un graphique en barres (horinzontale) où en orordonnées sont affichées
 Voici les valeurs qui doivent figurer sur le graphique  (j'ai réadapté l'exercice pour que cela soit plus simple et surtout beauuuucoup moins long que ce qui m'était demandé).
 
 type: 'horizontalBar'
+
 label: "Consommation Groupe Froid" affichée en bleu
+
 labels: 10h, 12h, 14h, 16h, 18h (ordonnées)
+
 data: 648.00, 672.00, 650.00, 648.00, 672.00 (abscisse)
 
 ----
@@ -185,6 +188,7 @@ data: 648.00, 672.00, 650.00, 648.00, 672.00 (abscisse)
 ---
 ----
 **Hint**
+
 Concrètement, les données devraient se présenter comme cela:
  ```
  type: '',
