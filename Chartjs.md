@@ -171,7 +171,7 @@ options: {
 Dans le cadre du Hacktion Commando, j'ai été amené à travailler avec une enterprise (Desimone) où j'ai eu recours à Chart.js
 Voici un des exercices que j'ai dû réaliser:
 
-Créer un graphique en barres (horinzontale) où en orordonnées sont affichées les heures (sur 24h à interval de 15mn) et en abscisse les valeurs des différentes consommations électriques des éléments. 
+Créer un graphique en barres (horinzontale) où en ordonnées sont affichées les heures (sur 24h à interval de 15mn) et en abscisse les valeurs des différentes consommations électriques des éléments. 
 
 Voici les valeurs qui doivent figurer sur le graphique  (j'ai réadapté l'exercice pour que cela soit plus simple et surtout beauuuucoup moins long que ce qui m'était demandé).
 
